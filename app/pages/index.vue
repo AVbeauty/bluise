@@ -64,7 +64,7 @@ export default class Home extends Vue {
   isSignedUp = false;
 
   form = {
-    email: '',
+    email: 'avprobeautywork@gmail.com',
   };
 
   encode(data): string {
